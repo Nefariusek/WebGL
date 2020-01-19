@@ -2,3 +2,8 @@ canvas#glcanvas {
     border: 2px solid #000;
     background-color: #777;
 }
+
+h1 {
+    text-align: center;
+    font-family: Castellar;
+}

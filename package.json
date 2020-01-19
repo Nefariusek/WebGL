@@ -1,0 +1,19 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "Project for Computer Graphics Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nefariusek/WebGL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nefariusek/WebGL/issues"
+  },
+  "homepage": "https://github.com/Nefariusek/WebGL#readme"
+}
